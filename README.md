@@ -1,4 +1,4 @@
-Hey there! I'm Kevin, a remote web developer at JurCase GmbH, specializing in PHP, JavaScript, WordPress, and Codeigniter. I also freelance as Pixelbart, where I focus on WordPress maintenance. I'm passionate about gaming, happily married since 2015, and have a keen interest in Germanic Religious Studies. Cheers!
+Hey there! I'm Kevin, a remote web developer at JurCase GmbH, specializing in PHP, JavaScript, WordPress, a bit of WooCommerce, and Codeigniter. I also freelance as Pixelbart, where I focus on WordPress maintenance. Not only that, but I'm passionate about gaming, happily married since 2015, and have a keen interest in Germanic Religious Studies. You can contact me, but with caution, from Otto, my little son (a dog). Cheers!
 
 <picture>
   <source
